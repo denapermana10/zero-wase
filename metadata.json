@@ -1,0 +1,6 @@
+{
+  "name": "Zero Waste RR Pro",
+  "description": "Landing page program pengolahan sampah Zero Waste by RR Pro. Dilengkapi dengan data statistik, kalkulator bisnis interaktif, dan penangkap leads terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
